@@ -1,0 +1,59 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "trailing",
+  "editor.linkedEditing": true,
+  "editor.occurrencesHighlight": "multiFile",
+  "editor.suggest.insertMode": "replace",
+  "editor.fontFamily": "'JetBrains Mono','Droid Sans Mono', 'monospace', monospace",
+  "editor.fontLigatures": true,
+  "editor.lineHeight": 2,
+  "editor.fontSize": 13,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "files.defaultLanguage": "markdown",
+  "explorer.autoReveal": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 15,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.editor.enablePreview": false,
+  "workbench.colorCustomizations": {
+    "[Tokyo Night Light]": {
+      "editor.selectionBackground": "#3D59A1",
+      "editor.selectionHighlightBackground": "#3D59A1"
+    }
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "gitlens.currentLine.enabled": false,
+  "gitlens.codeLens.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 500,
+  "markdown-preview-enhanced.codeBlockTheme": "github-dark.css",
+  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "python.createEnvironment.trigger": "off",
+  "editor.overtypeCursorStyle": "line",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.zoomLevel": -1.5,
+  "jupyter.kernels.excludePythonEnvironments": ["python3.13.0"],
+  "jupyter.useDefaultConfigForJupyter": true,
+  "tabnine.experimentalAutoImports": true,
+  "workbench.colorTheme": "Night Coder Flame",
+  "workbench.productIconTheme": "fluent-icons",
+  "window.titleBarStyle": "native",
+  "window.menuBarVisibility": "toggle",
+  "workbench.editor.editorActionsLocation": "titleBar"
+}
